@@ -22,6 +22,7 @@
 - python 3.5/3.6
 - pytorch (compatible with python 3.5/3.6)
 - jupyter notebook (that runs python 3.5/3.6 kernel; check with `sys.verion`)
+- MNIST data (run `pull_mnist`)
 
 ## Resources
 
