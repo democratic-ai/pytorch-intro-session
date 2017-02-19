@@ -17,6 +17,12 @@
 
 - [ ] MNIST
 
+## Requirements
+
+- python 3.5/3.6
+- pytorch (compatible with python 3.5/3.6)
+- jupyter notebook (that runs python 3.5/3.6 kernel; check with `sys.verion`)
+
 ## Resources
 
 - [Installation](http://pytorch.org/)
