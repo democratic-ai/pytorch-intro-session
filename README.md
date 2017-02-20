@@ -8,7 +8,7 @@
 - Basic Operations
 - [Linear Regression](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
 - [Neural Networks](http://neuralnetworksanddeeplearning.com/chap1.html)
-- [MLP for MNIST classification](https://github.com/pytorch/examples/tree/master/mnist)
+- [MLP for MNIST classification](https://github.com/colesbury/pytorch-examples/blob/master/nn/two_layer_net_nn.py)
 
 ## Models
 
