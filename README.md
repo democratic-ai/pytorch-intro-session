@@ -30,5 +30,6 @@
 
 - [Installation](http://pytorch.org/)
 - [Getting Started](https://github.com/pytorch/tutorials/blob/master/Deep%20Learning%20with%20PyTorch.ipynb)
+- [Documentation](http://pytorch.org/docs/torch.html)
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
 - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch)
